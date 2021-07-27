@@ -21,7 +21,7 @@
 
 **I'm Chrisando Ryan, a cybersecurity practitioner breathing in dev's world.**
 
-Have a bachelor's degree in Cyber Security and currently pursuing a master's in Data Science at [Bina Nusantara University](http://binus.ac.id/), Jakarta. Currently responsible as a Lecturer Specialist for Cyber Security at School of Computer Science, Bina Nusantara University.
+Graduated as a bachelor's in Cyber Security and currently pursuing a master's in Data Science at [Bina Nusantara University](http://binus.ac.id/), Jakarta. Currently responsible as a Lecturer Specialist for Cyber Security at School of Computer Science, Bina Nusantara University.
 
 **About Me!**
 
@@ -31,6 +31,7 @@ Have a bachelor's degree in Cyber Security and currently pursuing a master's in 
 - 🐱‍💻 Speaker at BlackHat Asia Arsenal 2020 Security Conference
 - ⛳ CTF and HTB Player. Frequently authoring Web Exploitation challenges in various CTF competitions
 - 🔭 Faculty Champion for Bina Nusantara University at University Innovation Fellows (UIF)
+- 🏛️ Ex-Subject Development Officer at Software Laboratory Center (SLC)
 
 
 
