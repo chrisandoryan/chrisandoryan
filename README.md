@@ -33,7 +33,7 @@ Graduated as a bachelor's in Cyber Security and currently pursuing a master's in
 
 
 
-**Languages and Tools:**  
+<!-- **Languages and Tools:**  
 
 ![Git](https://img.shields.io/badge/Git-Tools-informational?style=flat&logo=git&logoColor=white&color=8a8687&labelColor=e44d30)
 ![Github](https://img.shields.io/badge/Github-Tools-informational?style=flat&logo=github&logoColor=white&color=8a8687&labelColor=262626)
@@ -56,7 +56,7 @@ Graduated as a bachelor's in Cyber Security and currently pursuing a master's in
 ![GraphQL](https://img.shields.io/badge/GraphQL-API-informational?style=flat&logo=graphql&logoColor=white&color=8a8687&labelColor=d60090)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-informational?style=flat&logo=mysql&logoColor=white&color=8a8687&labelColor=4f7b99)
 ![PostgreSQL](https://img.shields.io/badge/SQL-Database-informational?style=flat&logo=postgresql&logoColor=white&color=8a8687&labelColor=2f5c8b)
-![Android](https://img.shields.io/badge/Android-Mobile-informational?style=flat&logo=android&logoColor=white&color=8a8687&labelColor=8fb63a)
+![Android](https://img.shields.io/badge/Android-Mobile-informational?style=flat&logo=android&logoColor=white&color=8a8687&labelColor=8fb63a) -->
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=chrisandoryan&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaskirat's GitHub Stats">
