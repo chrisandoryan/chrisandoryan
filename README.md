@@ -25,7 +25,7 @@ Graduated as a bachelor's in Cyber Security and currently pursuing a master's in
 
 - 👨🏽‍💻 Graduate Student in Data Science at Bina Nusantara University
 - 🧐 Penetration Tester and Security Researcher
-- 🧑🏻‍💻 Mobile (Kotlin and React Native) and Web (JS, PHP, Python) Developer
+- 🧑🏻‍💻 Solid Background in Mobile (Kotlin and React Native) and Web (JS, PHP, Python) Development
 - 🐱‍💻 Speaker at BlackHat Asia Arsenal 2020 Security Conference
 - ⛳ CTF and HTB Player. Frequently authoring Web Exploitation challenges in various CTF competitions
 - 🔭 Faculty Champion for Bina Nusantara University at Stanford's University Innovation Fellows (UIF)
