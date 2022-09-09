@@ -23,7 +23,7 @@ Graduated as a bachelor's in Cyber Security and a master's in Data Science at [B
 
 **About Me!**
 
-- 👨🏽‍💻 Graduate Student in Data Science at Bina Nusantara University
+- 👨🏽‍💻 Bachelor's of Cybersecurity and Master's in Computer Science (Offensive AI) at Bina Nusantara University
 - 🧐 Penetration Tester and Security Researcher
 - 🧑🏻‍💻 Solid Background in Mobile (Kotlin and React Native) and Web (JS, PHP, Python) Development
 - 🐱‍💻 Speaker at BlackHat Asia Arsenal 2020 Security Conference
