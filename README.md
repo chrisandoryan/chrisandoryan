@@ -19,7 +19,7 @@
 
 **I'm Chrisando Ryan, a cybersecurity practitioner breathing in dev's world.**
 
-Graduated as a bachelor's in Cyber Security and a master's in Copmputer Science at [Bina Nusantara University](http://binus.ac.id/), Jakarta. Currently responsible as a Lecturer Specialist for Cyber Security at School of Computer Science, Bina Nusantara University.
+Graduated as a bachelor's in Cyber Security and a master's in Computer Science at [Bina Nusantara University](http://binus.ac.id/), Jakarta. Currently responsible as a Lecturer Specialist for Cyber Security at School of Computer Science, Bina Nusantara University.
 
 **About Me!**
 
